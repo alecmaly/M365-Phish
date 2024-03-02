@@ -2,7 +2,7 @@
 
 This repo houses my unpolished notes and POCs for bugs I reported to Microsoft regarding Power Platform Priviledge Escalation. 
 
-I have written a blog post with high level details and POC videos @ https://alecmaly.com/blog/2023/07/15/M365-Phish-Power-Platform-Pivoting-and-Privilege-Escalation.html
+I have written a blog post with high level details and POC videos @ https://alecmaly.com/blog/2024/02/29/M365-Phish-Power-Platform-Pivoting-and-Privilege-Escalation.html
 
 # POCs
 ## Internal POC (manual)
